@@ -1,3 +1,5 @@
+//made by Yaroslav Moisiuk-Dranko 19.06.2020
+//Arduino nano and HC-SRo4
 byte TP = 0b10101010; // Every other port receives the inverted signal
 
 void setup() {
